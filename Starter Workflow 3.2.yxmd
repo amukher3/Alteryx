@@ -1,0 +1,626 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2020.3">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="30" />
+          <Fields>
+            <Field name="Customer_Name" />
+            <Field name="Customer_ID" />
+            <Field name="Store_ID" />
+            <Field name="Store_Location" />
+            <Field name="Store_City" />
+            <Field name="Store_Zip" />
+            <Field name="Store_Region" />
+            <Field name="Store_Coordinates" />
+            <Field name="Store_Manager" />
+            <Field name="Transaction_Date" />
+            <Field name="Transaction_Amount" />
+            <Field name="Transaction_ID" />
+            <Field name="PAYMENTMETHOD" />
+            <Field name="Department" />
+            <Field name="ProductID" />
+          </Fields>
+          <Data>
+            <r>
+              <c><![CDATA[     Bean, Kameko G.]]></c>
+              <c>16510702-4035</c>
+              <c>1</c>
+              <c>P.O. Box 916, 4145 Lorem St.</c>
+              <c>Chandler</c>
+              <c>86170</c>
+              <c>AZ</c>
+              <c>-17.60788, -36.77028</c>
+              <c>Sacha Calhoun</c>
+              <c>8/27/2016 9:33</c>
+              <c><![CDATA[$90.40 ]]></c>
+              <c>9A3EBC2B-CC83-D267-9C9C-A9EEE555255F</c>
+              <c>Voucher</c>
+              <c>Electronics</c>
+              <c>2B9777AF-5D8D-5A55-60BC-03541EF05145</c>
+            </r>
+            <r>
+              <c>PALMER, CRUZ</c>
+              <c>16480728-5541</c>
+              <c>2</c>
+              <c>P.O. Box 276, 4637 Dignissim Street</c>
+              <c>Kapolei</c>
+              <c>79997</c>
+              <c>HI</c>
+              <c>37.3884, 5.93114</c>
+              <c>Channing A. Blair</c>
+              <c>6/27/2016 10:25</c>
+              <c><![CDATA[$77.94 ]]></c>
+              <c>EACF5302-002E-82BE-F8E7-FF74B837DD5E</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>83E75C70-1F66-F38C-AD1D-0747C604403E</c>
+            </r>
+            <r>
+              <c>Monroe, Hoyt B.</c>
+              <c>16290922-1265</c>
+              <c>3</c>
+              <c>Ap #642-7135 Eleifend, St.</c>
+              <c>Kaneohe</c>
+              <c>83843</c>
+              <c>Hawaii</c>
+              <c>78.90804, -125.91426</c>
+              <c>Curran Sims</c>
+              <c>10/23/2016 10:49</c>
+              <c><![CDATA[$8.03 ]]></c>
+              <c>F86722A8-3B86-BBD1-A284-2F01D3436C50</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>45884B9E-0EEA-E352-B9E5-4AB364B2840C</c>
+            </r>
+            <r>
+              <c><![CDATA[       Rosales, Asher O.]]></c>
+              <c>16841104-0200</c>
+              <c>4</c>
+              <c>3829 Elit. Road</c>
+              <c>Fort Wayne</c>
+              <c>33133</c>
+              <c>Indiana</c>
+              <c>82.5627, -174.83856</c>
+              <c>Amena K. Castillo</c>
+              <c>1/3/2017 13:02</c>
+              <c><![CDATA[$69.60 ]]></c>
+              <c>422791B5-D8D7-0289-32A5-60C1CACB5F80</c>
+              <c>Cash</c>
+              <c>Pharmacy</c>
+              <c>EE671001-44BF-C765-35F8-C918E6962AC2</c>
+            </r>
+            <r>
+              <c><![CDATA[  Sargent, Gregory W.]]></c>
+              <c>16010421-7518</c>
+              <c>5</c>
+              <c>Ap #769-2971 Mauris Ave</c>
+              <c>Rochester</c>
+              <c>41404</c>
+              <c>Minnesota</c>
+              <c>-43.1526, 4.88612</c>
+              <c>Shaeleigh I. Gallegos</c>
+              <c>2/22/2017 0:33</c>
+              <c><![CDATA[$92.57 ]]></c>
+              <c>8A635EAA-9818-A62A-D444-21B9EA969C64</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>A865DE80-BE49-FDF0-7F19-01C9D35D079F</c>
+            </r>
+            <r>
+              <c>Landry, Hakeem N.</c>
+              <c>16590117-5249</c>
+              <c>6</c>
+              <c>Ap #573-6852 Purus. Rd.</c>
+              <c>Newport News</c>
+              <c>62038</c>
+              <c>VA</c>
+              <c>-70.78568, -53.0844</c>
+              <c>Odessa Bell</c>
+              <c>10/9/2016 20:53</c>
+              <c><![CDATA[$80.10 ]]></c>
+              <c>814D96C9-A6C3-0A63-8910-9EE09468BB94</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>982CDA57-4351-9D52-288E-9DB125442071</c>
+            </r>
+            <r>
+              <c>mathews, ashton</c>
+              <c>16930525-9138</c>
+              <c>7</c>
+              <c>5924 Hendrerit Rd.</c>
+              <c>Mesa</c>
+              <c>86171</c>
+              <c>AZ</c>
+              <c>17.07634, 36.38926</c>
+              <c>Rosalyn H. Sykes</c>
+              <c>2/10/2018 11:20</c>
+              <c><![CDATA[$9.78 ]]></c>
+              <c>27AC941F-DF63-4C33-4629-5140D3C344B1</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>C3F7580C-8031-A409-D581-DD08EF4B2F57</c>
+            </r>
+            <r>
+              <c><![CDATA[  Watson, Amos I.]]></c>
+              <c>16900109-5562</c>
+              <c>8</c>
+              <c>Ap #414-8610 Amet Rd.</c>
+              <c>Fort Collins</c>
+              <c>71769</c>
+              <c>Colorado</c>
+              <c>3.51035, 55.86008</c>
+              <c>Audrey O. Battle</c>
+              <c>12/2/2016 16:05</c>
+              <c><![CDATA[$62.28 ]]></c>
+              <c>38D710ED-85C5-F0CF-9122-986FA7E6711C</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>3C847A84-510B-68E6-939B-DC02F27BFCF9</c>
+            </r>
+            <r>
+              <c>RUSSO, SHOHANNA</c>
+              <c>16881122-5526</c>
+              <c>9</c>
+              <c>P.O. Box 894, 4224 Aliquam St.</c>
+              <c>Lakewood</c>
+              <c>60366</c>
+              <c>Colorado</c>
+              <c>-87.24456, 18.39205</c>
+              <c>Naida Cotton</c>
+              <c>7/8/2017 7:36</c>
+              <c><![CDATA[$86.97 ]]></c>
+              <c>C627120F-2FC3-CA4D-2C3F-0F6D4251119E</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>C00A0111-C6F8-B296-B855-50BAAE937D54</c>
+            </r>
+            <r>
+              <c>Hardy, Linda Y.</c>
+              <c>16340924-1274</c>
+              <c>10</c>
+              <c>774-6131 Nullam Avenue</c>
+              <c>San Francisco</c>
+              <c>96359</c>
+              <c>CA</c>
+              <c>-2.55305, 102.88883</c>
+              <c>Alexis Richards</c>
+              <c>11/6/2016 14:09</c>
+              <c><![CDATA[$14.68 ]]></c>
+              <c>D1F92601-FD17-1698-A744-7F1762A9C97A</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>91068B6E-310A-AEED-D206-61C09F137062</c>
+            </r>
+            <r>
+              <c>Fuentes, Macon Y.</c>
+              <c>16840512-6296</c>
+              <c>11</c>
+              <c>Ap #219-6877 Purus St.</c>
+              <c>Columbia</c>
+              <c>48136</c>
+              <c>MD</c>
+              <c>-58.97386, 116.1369</c>
+              <c>Simone Robbins</c>
+              <c>10/26/2016 12:57</c>
+              <c><![CDATA[$5.19 ]]></c>
+              <c>ACE4E70B-69A7-F3CC-B071-B21DE95E34AC</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>A3C321B3-DD4F-4388-2832-D289F4653FB5</c>
+            </r>
+            <r>
+              <c>Barry, Nehru R.</c>
+              <c>16790416-0038</c>
+              <c>12</c>
+              <c>Ap #943-8540 Ante Street</c>
+              <c>Memphis</c>
+              <c>93881</c>
+              <c>Tennessee</c>
+              <c>-87.34768, 160.59999</c>
+              <c>Nayda V. Santana</c>
+              <c>6/4/2017 7:22</c>
+              <c><![CDATA[$54.68 ]]></c>
+              <c>FDCCD252-E8DE-B771-CD3A-6216F8E33522</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>542A3EBC-1801-68FA-494D-5E0DFF0B3DE5</c>
+            </r>
+            <r>
+              <c>GREER, FELICIA</c>
+              <c>16231009-6603</c>
+              <c>13</c>
+              <c>7723 Convallis Street</c>
+              <c>Phoenix</c>
+              <c>85818</c>
+              <c>AZ</c>
+              <c>9.74643, -169.73703</c>
+              <c>Ramona G. Travis</c>
+              <c>9/23/2017 8:34</c>
+              <c><![CDATA[$42.95 ]]></c>
+              <c>FC36EDD1-E78A-8348-C282-FE388E8AC64B</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>1F754C87-8D80-078E-EF6D-B8806AF74CC1</c>
+            </r>
+            <r>
+              <c><![CDATA[  Walsh, Amal D.]]></c>
+              <c>16790129-8401</c>
+              <c>14</c>
+              <c>Ap #633-3468 Justo Av.</c>
+              <c>Chandler</c>
+              <c>86668</c>
+              <c>AZ</c>
+              <c>72.07867, 40.06018</c>
+              <c>Erin Juarez</c>
+              <c>5/15/2018 21:43</c>
+              <c><![CDATA[$47.96 ]]></c>
+              <c>658CC1E1-D3F5-4278-9494-9A505F918429</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>226F690B-EBF7-0491-F603-30F7C89B5873</c>
+            </r>
+            <r>
+              <c>Bauer, Florence R.</c>
+              <c>16640705-9739</c>
+              <c>15</c>
+              <c>674-3428 Nullam Avenue</c>
+              <c>Grand Island</c>
+              <c>35664</c>
+              <c>Nebraska</c>
+              <c>-55.40948, -69.96361</c>
+              <c>Glenna Figueroa</c>
+              <c>11/2/2016 9:28</c>
+              <c><![CDATA[$2.57 ]]></c>
+              <c>03659098-AF53-DC58-DE79-F19A1254E90B</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>CD0BB0DB-F6FB-6CA3-9517-316E4DCCD245</c>
+            </r>
+            <r>
+              <c>Carney, Maggy Y.</c>
+              <c>16160530-5695</c>
+              <c>16</c>
+              <c>4807 Elit. Avenue</c>
+              <c>Kansas City</c>
+              <c>86554</c>
+              <c>Kansas</c>
+              <c>-26.9365, 52.45951</c>
+              <c>Reese H. Pierce</c>
+              <c>12/9/2017 1:52</c>
+              <c><![CDATA[$33.88 ]]></c>
+              <c>51522D91-2949-758B-9593-E57505ECECD5</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>CDC72804-7835-4CEC-705D-D28A8113AC67</c>
+            </r>
+            <r>
+              <c>Wilkerson, Blaine S.</c>
+              <c>16220930-1577</c>
+              <c>17</c>
+              <c>P.O. Box 290, 727 Nulla Rd.</c>
+              <c>Warren</c>
+              <c>31885</c>
+              <c>MI</c>
+              <c>-36.85969, 42.66671</c>
+              <c>Colin P. Hunter</c>
+              <c>6/17/2016 3:06</c>
+              <c><![CDATA[$44.93 ]]></c>
+              <c>C1CAEAF1-F3A8-4EB7-7ECB-FA104BB31BC9</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>1300FA2C-E554-0B6F-307A-A45C636F0384</c>
+            </r>
+            <r>
+              <c>Perry, Quinn U.</c>
+              <c>16700430-4114</c>
+              <c>18</c>
+              <c>Ap #559-8250 Scelerisque, Road</c>
+              <c>Portland</c>
+              <c>64840</c>
+              <c>Oregon</c>
+              <c>-87.87522, 14.13554</c>
+              <c>Cyrus Obrien</c>
+              <c>7/29/2017 5:53</c>
+              <c><![CDATA[$67.30 ]]></c>
+              <c>EB478028-C37B-F80E-985A-1A63E850D694</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>FB140329-1D32-3B05-9EA0-0896C3006719</c>
+            </r>
+            <r>
+              <c>Henderson, Henry C.</c>
+              <c>16521002-0508</c>
+              <c>19</c>
+              <c>Ap #573-6353 Per Road</c>
+              <c>Houston</c>
+              <c>46575</c>
+              <c>Texas</c>
+              <c>-83.23164, 102.73226</c>
+              <c>Rama R. Le</c>
+              <c>4/16/2018 18:04</c>
+              <c><![CDATA[$5.95 ]]></c>
+              <c>84CF670A-C302-006A-FCA6-96D50C767B2B</c>
+              <c>Cash</c>
+              <c>Pharmacy</c>
+              <c>823DA7CC-C8D2-A238-BE8D-97F75016AD17</c>
+            </r>
+            <r>
+              <c>Jarvis, Laura B.</c>
+              <c>16471015-6763</c>
+              <c>20</c>
+              <c>860-1233 Accumsan St.</c>
+              <c>Broken Arrow</c>
+              <c>26400</c>
+              <c>Oklahoma</c>
+              <c>-75.94079, 74.00016</c>
+              <c>Zeph Z. Carrillo</c>
+              <c>7/11/2017 8:32</c>
+              <c><![CDATA[$37.11 ]]></c>
+              <c>A21C3A4A-EAB3-FEBC-D8A0-258C77963401</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>D9601760-EA15-7D9A-1CA3-5853CC26278D</c>
+            </r>
+            <r>
+              <c>Ballard, Kim J.</c>
+              <c>16081113-5045</c>
+              <c>21</c>
+              <c>Ap #255-7157 A St.</c>
+              <c>Boston</c>
+              <c>18016</c>
+              <c>MA</c>
+              <c>-23.71513, -29.61663</c>
+              <c>Isaiah Long</c>
+              <c>5/31/2018 19:04</c>
+              <c><![CDATA[$89.16 ]]></c>
+              <c>0C54F0FF-75E0-FB97-0D03-0247C11F1A22</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>95164800-51B0-1E7D-5D6D-E4CED13DA2A5</c>
+            </r>
+            <r>
+              <c>Shepard, Aileen J.</c>
+              <c>16171220-2074</c>
+              <c>22</c>
+              <c>595-8229 Sodales Ave</c>
+              <c>Jacksonville</c>
+              <c>49613</c>
+              <c>FL</c>
+              <c>79.88903, -177.47719</c>
+              <c>Pandora Burgess</c>
+              <c>12/21/2016 21:55</c>
+              <c><![CDATA[$64.96 ]]></c>
+              <c>FFA15365-AEA1-4587-75EA-D3184093EBBE</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>39CB6410-375A-9FFE-D4AC-28403BBC41EE</c>
+            </r>
+            <r>
+              <c>Hampton, Igor K.</c>
+              <c>16860903-7141</c>
+              <c>23</c>
+              <c>Ap #893-7856 Integer Rd.</c>
+              <c>New Orleans</c>
+              <c>99717</c>
+              <c>LA</c>
+              <c>-43.33096, 107.29491</c>
+              <c>Rhona Mayo</c>
+              <c>9/29/2016 18:12</c>
+              <c><![CDATA[$28.28 ]]></c>
+              <c>C343677B-A563-BC0C-04B1-6A50B5E76274</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>FE992ACB-0071-CDE1-11AE-BBDF4497EB73</c>
+            </r>
+            <r>
+              <c>Taylor, Deanna F.</c>
+              <c>16861023-5262</c>
+              <c>24</c>
+              <c>225-4555 Fringilla St.</c>
+              <c>Lawton</c>
+              <c>22761</c>
+              <c>Oklahoma</c>
+              <c>-70.16724, -106.71234</c>
+              <c>Wylie Mcmahon</c>
+              <c>10/21/2017 22:32</c>
+              <c><![CDATA[$50.41 ]]></c>
+              <c>2262CB2A-3F3D-0C98-1C15-557F09D7DC7E</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>280E6C77-D123-F0CC-7F1A-A5CD5E1AB650</c>
+            </r>
+            <r>
+              <c>Sellers, Carl V.</c>
+              <c>16210124-9346</c>
+              <c>25</c>
+              <c>Ap #202-8086 Diam. Rd.</c>
+              <c>Laramie</c>
+              <c>76990</c>
+              <c>WY</c>
+              <c>12.25142, 47.931</c>
+              <c>Wallace Nguyen</c>
+              <c>11/28/2017 2:31</c>
+              <c><![CDATA[$25.35 ]]></c>
+              <c>F392603A-C413-FC8B-00C8-BC3E0F999BF8</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>AD9C1A5C-1DF0-B932-1DAD-5BF47CDA0D9D</c>
+            </r>
+            <r>
+              <c>Cox, Jescie L.</c>
+              <c>16450124-7789</c>
+              <c>26</c>
+              <c>260-244 Suscipit Avenue</c>
+              <c>Essex</c>
+              <c>28179</c>
+              <c>VT</c>
+              <c>17.22159, 8.01578</c>
+              <c>Shana Merrill</c>
+              <c>1/16/2018 19:09</c>
+              <c><![CDATA[$39.73 ]]></c>
+              <c>39861379-6EAB-A78F-6529-0DADAA0FB96F</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>A7FB4C6D-F1DF-69B5-B323-E53621CD9864</c>
+            </r>
+            <r>
+              <c>Small, Ursula I.</c>
+              <c>16820606-4779</c>
+              <c>27</c>
+              <c>P.O. Box 827, 7818 Aliquam Ave</c>
+              <c>Pike Creek</c>
+              <c>15408</c>
+              <c>Delaware</c>
+              <c>76.84838, 4.04657</c>
+              <c>Cameron Y. Bowen</c>
+              <c>10/27/2016 13:21</c>
+              <c><![CDATA[$72.38 ]]></c>
+              <c>9D2CE02D-AA65-C98A-C8CE-B50F0E221DDA</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>66E1D3EC-5A28-B032-B0FD-29BB43CC1FD4</c>
+            </r>
+            <r>
+              <c>Hobbs, Ashton S.</c>
+              <c>16731217-1379</c>
+              <c>28</c>
+              <c>Ap #268-9609 Ut, Avenue</c>
+              <c>Pocatello</c>
+              <c>60172</c>
+              <c>ID</c>
+              <c>-82.21694, 100.62598</c>
+              <c>Marvin Aguilar</c>
+              <c>11/27/2016 9:02</c>
+              <c><![CDATA[$72.48 ]]></c>
+              <c>C69A1908-BB49-1DCD-0896-F5EF8ABCF889</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>154C953C-70B0-1BA8-FB9D-A228B36B8AB0</c>
+            </r>
+            <r>
+              <c>Oneill, Hayes E.</c>
+              <c>16760819-0414</c>
+              <c>29</c>
+              <c>P.O. Box 703, 1243 Mollis. Avenue</c>
+              <c>Springfield</c>
+              <c>34862</c>
+              <c>MA</c>
+              <c>-31.38631, -93.16916</c>
+              <c>Micah Duncan</c>
+              <c>10/27/2017 7:39</c>
+              <c><![CDATA[$1.61 ]]></c>
+              <c>097E8579-964B-11C2-F171-5D785AAA95D4</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>AB5567C6-5F14-F917-7F22-C9F84164CD2F</c>
+            </r>
+            <r>
+              <c>Jordan, Sydney M.</c>
+              <c>16430912-7175</c>
+              <c>30</c>
+              <c>Ap #514-4872 Sodales Street</c>
+              <c>Fort Smith</c>
+              <c>71789</c>
+              <c>Arkansas</c>
+              <c>-46.57148, -110.02344</c>
+              <c>Brenda Kim</c>
+              <c>1/22/2017 4:26</c>
+              <c><![CDATA[$74.79 ]]></c>
+              <c>A0F37DCA-8B0E-ACE6-322B-3DFC9C41F811</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>99D6254B-8168-B997-94AC-F9C2286174B4</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>POS_DATA</AnnotationText>
+          <DefaultAnnotationText>POS_DATA</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings>
+        <Position x="162" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"Customer_Name"</Value>
+          <Value name="Check Box (84)">False</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">True</Value>
+          <Value name="Drop Down (81)">title</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input2" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Starter Workflow 3.2</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
