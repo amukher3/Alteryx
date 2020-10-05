@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="11.3">
+  <Nodes>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">.\Monthly Revenue by Store Location.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Monthly Revenue by Store Location.xlsx
+Table=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Store" size="255" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Jan" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Feb" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Mar" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Apr" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="May" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Jun" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Jul" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Aug" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Sep" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Oct" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Nov" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Dec" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Grand Total" source="File: \\Mac\Home\Desktop\Alteryx Bootcamp\Lecture Resources\3.6 Multi-Field Formula Tool\Monthly Revenue by Store Location.xlsx|||`Sheet1$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Starter Workflow 3.6</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
